@@ -20,12 +20,11 @@ const ServiceHighlight = () => {
           >
             <div className="relative">
               <div className="absolute -top-4 -left-4 w-24 h-24 bg-primary/20 rounded-full blur-2xl" />
-              <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/10">
+              <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/10 h-[500px] lg:h-[650px]">
                 <Image
                   src="https://parklandvet.net/wp-content/uploads/2017/06/pet-surgery-dog-cat-spruce-grove.jpg"
                   alt="Advanced Pet Surgery"
-                  width={800}
-                  height={1000}
+                  fill
                   className="object-cover"
                   referrerPolicy="no-referrer"
                 />
