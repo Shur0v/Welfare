@@ -1,0 +1,5 @@
+{
+  "name": "Welfare Veterinary Clinic",
+  "description": "Compassionate veterinary care you can trust. Emergency care, preventive treatments, diagnostics, and surgery.",
+  "requestFramePermissions": ["geolocation"]
+}
