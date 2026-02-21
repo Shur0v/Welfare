@@ -17,12 +17,12 @@ const ServicesSection = () => {
   ];
 
   const animalHospital = [
-    { title: "Pet Emergency", desc: "Critical care and stabilization for urgent medical situations.", icon: <Zap size={20} />, image: "https://picsum.photos/600/400?random=26" },
-    { title: "Animal Clinic Visits", desc: "Routine check-ups and diagnostic consultations for all life stages.", icon: <Activity size={20} />, image: "https://picsum.photos/600/400?random=27" },
-    { title: "Pet Ultrasound", desc: "Advanced non-invasive imaging for accurate internal diagnostics.", icon: <Microscope size={20} />, image: "https://picsum.photos/600/400?random=28" },
-    { title: "Pet Surgery", desc: "Expert soft tissue and orthopedic surgical procedures.", icon: <Scissors size={20} />, image: "https://picsum.photos/600/400?random=29" },
-    { title: "Pain Relief", desc: "Compassionate management of acute and chronic pain conditions.", icon: <Heart size={20} />, image: "https://picsum.photos/600/400?random=30" },
-    { title: "Spay & Neuter", desc: "Safe and routine procedures to prevent unwanted litters and health issues.", icon: <Scissors size={20} />, image: "https://picsum.photos/600/400?random=31" },
+    { title: "Pet Emergency", desc: "Critical care and stabilization for urgent medical situations.", icon: <Zap size={20} />, image: "https://wvetclinic.com/wp-content/uploads/2023/12/1b.webp" },
+    { title: "Animal Clinic Visits", desc: "Routine check-ups and diagnostic consultations for all life stages.", icon: <Activity size={20} />, image: "https://wvetclinic.com/wp-content/uploads/2023/12/2-1.webp" },
+    { title: "Pet Ultrasound", desc: "Advanced non-invasive imaging for accurate internal diagnostics.", icon: <Microscope size={20} />, image: "https://wvetclinic.com/wp-content/uploads/2023/12/3-2.webp" },
+    { title: "Pet Surgery", desc: "Expert soft tissue and orthopedic surgical procedures.", icon: <Scissors size={20} />, image: "https://wvetclinic.com/wp-content/uploads/2023/12/4-2.webp" },
+    { title: "Pet Pain-Relief", desc: "Compassionate management of acute and chronic pain conditions.", icon: <Heart size={20} />, image: "https://wvetclinic.com/wp-content/uploads/2023/12/5-1.webp" },
+    { title: "Spay and Neuter", desc: "Safe and routine procedures to prevent unwanted litters and health issues.", icon: <Scissors size={20} />, image: "https://wvetclinic.com/wp-content/uploads/2023/12/6-1.webp" },
   ];
 
   return (
