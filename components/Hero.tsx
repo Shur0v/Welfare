@@ -17,7 +17,7 @@ const Hero = () => {
           playsInline
           className="w-full h-full object-cover brightness-[0.7]"
         >
-          <source src="https://assets.mixkit.co/videos/preview/mixkit-veterinarian-examining-a-dog-4442-large.mp4" type="video/mp4" />
+          <source src="/Veterinary_Clinic_Hero_Video.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <div className="absolute inset-0 bg-gradient-to-r from-white/90 via-white/40 to-transparent lg:from-white/80 lg:via-white/20" />
@@ -66,7 +66,7 @@ const Hero = () => {
               <div className="flex -space-x-3">
                 {[1, 2, 3, 4].map((i) => (
                   <div key={i} className="w-10 h-10 rounded-full border-2 border-white overflow-hidden bg-slate-100">
-                    <Image src={`https://picsum.photos/100/100?random=${i+10}`} width={40} height={40} alt="Pet" referrerPolicy="no-referrer" />
+                    <Image src={`https://picsum.photos/100/100?random=${i + 10}`} width={40} height={40} alt="Pet" referrerPolicy="no-referrer" />
                   </div>
                 ))}
                 <div className="w-10 h-10 rounded-full border-2 border-white bg-slate-900 flex items-center justify-center text-[10px] font-bold text-white">

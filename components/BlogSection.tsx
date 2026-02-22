@@ -13,21 +13,21 @@ const BlogSection = () => {
       excerpt: "Everything you need to know about pre-operative care and what to expect on the day of the procedure.",
       author: "Dr. Sarah Ahmed",
       date: "Oct 12, 2023",
-      image: "https://picsum.photos/600/400?random=71"
+      image: "https://unityanimalhospital.com/wp-content/uploads/2015/02/pet_surgery.jpg"
     },
     {
       title: "The Importance of Regular Dental Checks",
       excerpt: "Oral health is a window to your pet's overall well-being. Learn why dental hygiene matters.",
       author: "Dr. James Wilson",
       date: "Oct 05, 2023",
-      image: "https://picsum.photos/600/400?random=72"
+      image: "https://www.lincolnshireanimalhospital.com/blog/wp-content/uploads/2020/01/Canva-Red-Cat-and-toothbrush-2000x1333.jpg"
     },
     {
       title: "Understanding Pet Vaccinations",
       excerpt: "A guide to essential immunizations and why they are critical for protecting your pet from diseases.",
       author: "Dr. Elena Rodriguez",
       date: "Sep 28, 2023",
-      image: "https://picsum.photos/600/400?random=73"
+      image: "https://humanesocietyofcharlotte.org/wp-content/uploads/2017/05/extra-image-cat-getting-vaccine-e1498162267197.jpg"
     }
   ];
 

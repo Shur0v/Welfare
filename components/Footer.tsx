@@ -13,13 +13,13 @@ const Footer = () => {
   return (
     <footer className="bg-slate-900 text-white pt-24 pb-12 overflow-hidden relative">
       <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-primary via-primary-dark to-primary" />
-      
+
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-20">
           {/* Brand */}
           <div className="flex flex-col gap-8">
             <Link href="/" className="flex items-center gap-2 group">
-              <div className="relative w-48 h-12 brightness-0 invert">
+              <div className="relative w-48 h-12 brightness-0 invert scale-[2] origin-left">
                 <Image
                   src="https://wvetclinic.com/wp-content/uploads/2023/02/cropped-Welfare-Veterinary-Horizontal-logo-01-scaled-1-2048x1501.png"
                   alt="Welfare Veterinary Clinic Logo"

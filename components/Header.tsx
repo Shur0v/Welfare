@@ -32,7 +32,7 @@ const Header = () => {
       <div className="container mx-auto px-4 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 group">
-          <div className="relative w-48 h-12">
+          <div className="relative w-48 h-12 scale-[2] origin-left">
             <Image
               src="https://wvetclinic.com/wp-content/uploads/2023/02/cropped-Welfare-Veterinary-Horizontal-logo-01-scaled-1-2048x1501.png"
               alt="Welfare Veterinary Clinic Logo"
